@@ -1,1 +1,1 @@
-Collection of academic projects
+## Collection of academic projects
